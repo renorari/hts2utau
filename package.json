@@ -1,0 +1,23 @@
+{
+  "name": "hts2utau",
+  "version": "1.0.0",
+  "description": "HTS日本語音響モデルを日本語UTAU音源に変換します。",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renorari/hts2utau.git"
+  },
+  "author": "Renorari",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/renorari/hts2utau/issues"
+  },
+  "homepage": "https://github.com/renorari/hts2utau#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}
